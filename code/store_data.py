@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import my_sql as mysql
 import pandas as pd
 from datetime import datetime
